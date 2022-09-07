@@ -13,6 +13,6 @@ print ("What is the current exchange rate for the Euro to Dollar? ")
 rate = int(input())
 print ("What is the amount of currency to exchange? ")
 amount = int(input())
-total = rate*amount 
+total = rate * amount 
 result = total - 3
 print (result)
