@@ -14,4 +14,4 @@ Preferred Name: Michelle Lu
 
 Discord username: michellelu#2111
 
-[REPL url: https://replit.com/@MichelleLu11](https://replit.com/join/gmvbhrevot-michellelu11)
+REPL url: https://replit.com/join/gmvbhrevot-michellelu11
