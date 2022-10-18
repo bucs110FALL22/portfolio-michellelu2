@@ -15,7 +15,7 @@ rstar_pyramid()
 
 
 
-#possible solution
+##possible solution
 # def star_pyramid():
 #     levels = int(input("Enter the desired pyramid height: "))
 #     for i in range(1, levels + 1):
