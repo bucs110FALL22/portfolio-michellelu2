@@ -25,6 +25,3 @@ def main():
   print(result3)
 
 main()
-
-
-
