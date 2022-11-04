@@ -23,12 +23,24 @@ Come up with interfaces fot 3 possible classes you think you may need. Again, br
 
 ## Class Interface 1
 
-< add your interface >
+class Player: 
+  def __init__(self , player_num = 1):
+    self.player_num = player_num
+    self.lives = 3
+    self.movement = keyboard 
 
 ## Class Interface 2
 
-< add your interface >
+class Enemy: 
+  def __init__(self):
+    self.hits_to_kill = 1 
+    self.postion = random 
+    self.alive = True
 
 ## Class Interface 3
 
-< add your interface >
+class Background:
+  def __init__(self):
+    self.grass = []
+    self.color = 'green'
+    self.treats = []
